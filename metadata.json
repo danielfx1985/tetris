@@ -1,0 +1,7 @@
+{
+  "name": "Neon Tetris VS & Live Commentary",
+  "description": "A competitive Tetris battle game featuring a simulated opponent and real-time AI commentary powered by Google Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
